@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, NodeJS, and NextJS**
 
-- 👨‍💻 All of my projects are available at [reezyx.netlify.com](reezyx.netlify.com)
+- 👨‍💻 All of my projects are available at [Reezyx Portofolio](reezyx.netlify.app)
 
 - 💬 Ask me about **React, Laravel, JQuery**
 
