@@ -1,4 +1,6 @@
-# Hi 👋, I'm Reezyx
+<h1 align="center">Hi 👋, I'm Reezyx</h1>
+<h3 align="center">I’m a fullstack developer with a passion for web development, creating seamless front-end and robust back-end solutions to build modern, efficient web applications.</h3>
+
 🔭 I’m currently working on SiHRIS<br>🌱 I’m currently learning Golang, NodeJS, and NextJS<br>👨‍💻 All of my projects are available at reezyx.netlify.com<br>💬 Ask me about React, Laravel, JQuery<br>📫 How to reach me business.rudiansyah@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/rudiansyahtama/
 
 
