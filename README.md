@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **business.rudiansyah@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rudiansyahtama/](https://www.linkedin.com/in/rudiansyahtama/)
+- 📄 Know about my experiences [Reezyx LinkedIn](https://www.linkedin.com/in/rudiansyahtama/)
 
 
 ## 🌐 Socials:
