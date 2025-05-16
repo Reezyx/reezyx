@@ -1,3 +1,4 @@
+# Hi 👋, I'm <Reezyx/>
 # 💫 About Me:
 🔭 I’m currently working on SiHRIS<br>🌱 I’m currently learning Golang, NodeJS, and NextJS<br>👨‍💻 All of my projects are available at reezyx.netlify.com<br>💬 Ask me about React, Laravel, JQuery<br>📫 How to reach me business.rudiansyah@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/rudiansyahtama/
 
